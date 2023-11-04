@@ -1,0 +1,8 @@
+site_name: "health-check"
+site_description: "An AWS ECS test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
